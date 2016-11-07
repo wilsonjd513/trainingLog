@@ -1,0 +1,17 @@
+#mainMenu{
+    background-color: #000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ .menuItem{
+    display: block;
+    float: right;
+    padding: 14px 16px;
+}
+
+.menuItem:hover{
+    background-color: blue;
+}
